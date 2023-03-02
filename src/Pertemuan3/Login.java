@@ -40,11 +40,11 @@ public class Login extends javax.swing.JFrame {
 
         jLabel1.setText("Username");
         getContentPane().add(jLabel1);
-        jLabel1.setBounds(70, 250, 60, 16);
+        jLabel1.setBounds(70, 250, 70, 16);
 
         jLabel2.setText("Password");
         getContentPane().add(jLabel2);
-        jLabel2.setBounds(70, 290, 50, 16);
+        jLabel2.setBounds(70, 290, 70, 16);
 
         usernameTxt.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
