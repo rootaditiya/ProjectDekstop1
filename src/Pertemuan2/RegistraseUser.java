@@ -1,3 +1,5 @@
+package Pertemuan2;
+
 
 import javax.swing.*;
 
